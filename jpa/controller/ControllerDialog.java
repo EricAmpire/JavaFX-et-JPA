@@ -9,7 +9,7 @@ import teste.jpa.model.Eleve;
 import static teste.jpa.controller.ControllerTableView.ELEVES;
 
 /**
- * Created by Melaine Kasongo on 03/09/2017.
+ * Created by Eric Ampire on 03/09/2017.
  */
 public class ControllerDialog
 {
